@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Learn Academy</string>
+    <string name="date">Date</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="dialog_message">Menghapus pertanyaan</string>
+    <string name="dialog_title">Hapus Pertanyaan</string>
+
+    <!--   MTK-->
+    <string name="persamaan">
+        Persamaan linear satu variabel atau yang biasa disingkat PLSV, sering disimbolkan dengan tanda “=” (sama dengan). Sesuai namanya, PLSV mengandung 1 (satu) variabel.
+        Pada dasarnya, persamaan linear satu variabel merupakan suatu persamaan berbentuk kalimat terbuka yang dihubungkan dengan tanda “=” (sama dengan) dan hanya memiliki 1 variabel.
+        Maksudnya berbentuk kalimat terbuka tuh apa ya? Dikatakan sebagai kalimat terbuka karena kalimatnya belum tahu benar apa enggaknya. Bisa jadi benar, bisa jadi salah.
+    </string>
+    <string name="aljabar">
+        Aljabar adalah cabang matematika yang mempelajari struktur, hubungan dan kuantitas. Untuk mempelajari hal-hal ini dalam aljabar
+        digunakan simbol (biasanya berupa huruf) untuk merepresentasikan bilangan secara umum sebagai sarana penyederhanaan dan
+        alat bantu memecahkan masalah. Contohnya, x mewakili bilangan yang diketahui dan y bilangan yang ingin diketahui.
+    </string>
+    <string name="trigonometri">
+        Trigonometri berasal dari bahasa Yunani, yaitu trigonon yang memiliki arti “tiga sudut” dan metron yang memiliki arti “mengukur”.
+        Trigonometri adalah salah satu cabang matematika tentang hubungan antar sudut dan sisi pada segitiga.
+        Nah, rumus trigonometri dipakai untuk menghitung sudut di segitiga. Sobat Zenius, nantinya bakal kenalan sama sin, cos, tan dan lainnya.
+        Tapi elo mending belajar kesebangunan dulu, yuk!
+    </string>
+    <string name="fungsi">
+        konsep dari fungsi adalah salah satu konsep yang fundamental dalam belajar matematika. Banyak permasalahan yang penyelesaiannya menggunakan
+        fungsi baik disadari maupun tidak.
+    </string>
+    <string name="himpunan">
+        himpunan adalah kumpulan objek yang memiliki sifat dapat didefinisikan dengan jelas atau kumpulan dari sesuatu yang
+        dianggap sebagai satu kesatuan.
+    </string>
+
+    <!--   Ekonomi-->
+    <string name="keuangan">
+        Keuangan (bahasa Inggris: finance) mempelajari bagaimana cara mengetahui berbisnis individu, meningkatkan organisasi, mengalokasi,
+        menggunakan sumber daya moneter dengan sejalannya waktu, dan juga menghitung risiko dalam menjalankan proyeknya
+    </string>
+    <string name="saham">
+        Saham dapat diartikan sebagai tanda penyertaan modal seseorang atau pihak (badan usaha)
+        pada suatu perusahaan atau Perseroan Terbatas.
+    </string>
+    <string name="obligasi">
+        Obligasi adalah surat utang untuk jangka waktu tertentu yang diterbitkan oleh penerbit,
+        yakni pemerintah atau perusahaan. Obligasi dapat diperjualbelikan dan menjadi salah satu instrumen investasi.
+    </string>
+    <string name="moneter">
+        Kebijakan moneter adalah proses mengatur persediaan uang sebuah negara untuk mencapai
+        tujuan tertentu; seperti menahan inflasi, mencapai pekerja penuh atau lebih sejahtera.
+    </string>
+    <string name="bisnis">
+       Dalam ilmu ekonomi, bisnis adalah suatu organisasi yang menjual barang atau jasa kepada konsumen atau bisnis lainnya,
+        untuk mendapatkan laba. Secara historis kata bisnis dari bahasa Inggris business,
+        dari kata dasar busy yang berarti "sibuk" dalam konteks individu, komunitas, ataupun masyarakat.
+    </string>
+
+    <!--   IPA-->
+    <string name="amfibi">
+    Hewan amfibi adalah vertebrata kecil yang membutuhkan air atau lingkungan yang lembap untuk bertahan hidup.
+        Beberapa spesies yang termasuk hewan amfibi adalah kodok, katak, salamander, kadal air, dan sebagainya
+    </string>
+    <string name="aves">
+    Aves (burung) ialah sekelompok hewan yang bertulang belakang (vertebrata) yang memiliki bulu dan sayap
+    </string>
+    <string name="mamalia">
+     Mamalia merupakan salah satu kelas dari hewan vertebrata dengan ciri seperti adanya rambut dan kelenjar susu.
+    </string>
+    <string name="sel">
+       Apa fungsi dari sel?
+       Secara fungsional, sel berfungsi untu menjalankan fungsi kehidupan (menyelenggarakan kehidupan jika sel-sel penyusunya
+        berfungsi), kemudian membentuk organisme. Sel berkembang biak dengan cara membelah diri (secara mitosis).
+    </string>
+    <string name="jaringan">
+        Jaringan adalah kumpulan Sel yang mempunyai bentuk dan faal/fungsi yang sama dan tertentu yang berdasarkan kemampuan
+        regeneratifnya terdiri atas Jaringan yang dapat pulih kembali dan Jaringan yang tidak dapat pulih kembali.
+    </string>
+
+    <!--   BAHASA-->
+    <string name="prosa">
+        Prosa atau yang lebih dikenal dengan fiksi adalah satu jenis dari sastra yang bersifat naratif dengan menceritakan
+        suatu cerita rekaan, khayalan, dan tidak bersifat asli. Dalam ilmu sastra,
+        istilah fiksi sering disebut sebagai prosa yang memang merupakan salah satu jenis dari sastra
+    </string>
+    <string name="puisi">
+        puisi merupakan ragam sastra yang bahasanya terikat oleh irama, matra, rima, serta penyusunan larik dan bait. Puisi juga diartikan
+        sebagai gubahan dalam bahasa yang bentuknya dipilih dan ditata secara cermat.
+    </string>
+    <string name="cerpen">
+        Cerpen atau cerita pendek adalah salah satu karya sastra yang berbentuk prosa naratif yang ceritanya relatif singkat.
+        Dikatakan singkat, karena pada dasarnya cerpen hanya memiliki satu fokus permasalahan atau konflik.
+    </string>
+    <string name="pantun">
+        Dalam kamus besar Bahasa Indonesia (KBBI), pantun adalah bentuk puisi Indonesia (Melayu),
+        tiap bait (kuplet) biasanya terdiri atas empat baris yang bersajak (a-b-a-b)
+    </string>
+    <string name="paragraf">
+      Paragraf atau alinea adalah suatu gagasan yang berbentuk serangkaian
+        kalimat yang saling berkaitan satu sama lain.
+    </string>
+
+
+</resources>
